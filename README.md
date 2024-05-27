@@ -14,6 +14,8 @@
 
 * CSS Modules: Scoped and maintainable CSS for styling.
 
+* React Hooks: Utilize React's functional components and hooks for state management.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
