@@ -1,3 +1,19 @@
+# Todo App
+ 
+**Welcome to the Todo Application project! This is a simple yet powerful todo list application built using React. The application provides a user-friendly interface to manage your daily tasks effectively.**
+
+## Features
+
+* Task Management: Add, delete tasks.
+
+* Responsive Design: Fully responsive layout for optimal viewing on all devices.
+
+## Technologies Used
+
+* React: JavaScript library for building user interfaces.
+
+* CSS Modules: Scoped and maintainable CSS for styling.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +84,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Contributing
+
+**Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.**
+
+## Acknowledgments
+
+* This project was created as a fun way to practice Javascript and React programming.
+
+* Thanks to everyone who contributes to open-source projects and makes learning and collaboration possible.
